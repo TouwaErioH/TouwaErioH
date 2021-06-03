@@ -1,6 +1,15 @@
 ### Hi there 👋
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=touwaerioh&theme=tokyonight">
+
+
+<img align="justify" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touwaerioh&layout=compact&hide=assembly,VHDL,verilog">
+
+
+
 <!--
+
 **TouwaErioH/TouwaErioH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
