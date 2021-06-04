@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- 🌱 I’m currently learning Computer Science(web security).
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=touwaerioh&theme=tokyonight">
 
 
