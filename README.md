@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Computer Science(web security).
+- 🌱 I am currently studying computer science with a focus on software security.
 <img align="left"  src="https://github-readme-stats.vercel.app/api?username=touwaerioh&theme=tokyonight">
 
 
